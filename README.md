@@ -1,7 +1,7 @@
 # My-First-Hackpad
 My first hackpad insipred from https://blueprint.hackclub.com/hackpad
-<img width="791" height="675" alt="image" src="https://github.com/user-attachments/assets/207d7dc3-29df-4184-92b0-7b925f298000" />
-<img width="867" height="440" alt="image" src="https://github.com/user-attachments/assets/4995892e-8317-4f9c-a1bb-05dcb67e527b" />
+<img width="1139" height="663" alt="image" src="https://github.com/user-attachments/assets/38f5bfa6-65c4-48bc-a1cd-c7ec06a1808c" />
+<img width="899" height="584" alt="image" src="https://github.com/user-attachments/assets/f4429779-a792-4641-abe2-ac71c44a363b" />
 <img width="1268" height="1333" alt="image" src="https://github.com/user-attachments/assets/7efa5d8a-2458-4a09-be58-b4963b72f03a" />
 <img width="1955" height="1359" alt="image" src="https://github.com/user-attachments/assets/4e4039d5-b0ef-40f0-ad06-e8e425040034" />
 
